@@ -27,3 +27,10 @@ Git es el software mas utilizado para controlar versiones de tu código o progra
 Siempre digo que es importante aprender el trans fondo de como funcionan las cosas que día a día usamos, así nos podremos familiarizar mas con estas herramientas. En este video podrás entender a detalle como funciona Git y su importancia.
 
 [![Alt text](https://img.youtube.com/vi/jGehuhFhtnE/0.jpg)](https://www.youtube.com/watch?v=jGehuhFhtnE)
+
+Cursos gratis de Git y GitHub
+| Curso | Autor | Link | Descripción |
+| --- | --- | --- | --- |
+| Aprende Git Ahora! | Hola mundo | https://www.youtube.com/watch?v=VdGzPZ31ts8 | En tan solo una hora podrás introducirte en los conceptos mas importantes de esta herramienta. |
+| Curso de Git Gratis | Codigo facilito | https://codigofacilito.com/cursos/git | En este caso la gente de codigo facilito nos brinda este curso gratis en su plataforma. |
+| Curso Git & GitHub | jonmircha | https://www.youtube.com/watch?v=suzMNqDQiyU | En estas 5 horas podrás profundizar completamente en los conceptos de Git y manejo de repositorios remotos. |
