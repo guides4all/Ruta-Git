@@ -9,3 +9,15 @@ Git es el software mas utilizado para controlar versiones de tu código o progra
 **Temario:**
 
 - ¿Qué es git?
+- Instala y configura Git
+- Iniciar repositorio
+- Flujo de trabajo en GIt
+- Ver estado de git
+- Agregar cambios al Stage
+- Hacer commits
+- Eliminando archivos
+- Descartar cambios
+- Ignorar archivos en git
+- Ver historial de git
+- Ramas o branches
+- Crear y subir a repositorio remoto en GitHub
