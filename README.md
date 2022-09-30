@@ -21,3 +21,9 @@ Git es el software mas utilizado para controlar versiones de tu código o progra
 - Ver historial de git
 - Ramas o branches
 - Crear y subir a repositorio remoto en GitHub
+
+## Que es Git y como funciona
+
+Siempre digo que es importante aprender el trans fondo de como funcionan las cosas que día a día usamos, así nos podremos familiarizar mas con estas herramientas. En este video podrás entender a detalle como funciona Git y su importancia.
+
+[![Alt text](https://img.youtube.com/vi/jGehuhFhtnE/0.jpg)](https://www.youtube.com/watch?v=jGehuhFhtnE)
