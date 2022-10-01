@@ -8,19 +8,8 @@ Git es el software mas utilizado para controlar versiones de tu código o progra
 
 **Temario:**
 
-- ¿Qué es git?
-- Instala y configura Git
-- Iniciar repositorio
-- Flujo de trabajo en GIt
-- Ver estado de git
-- Agregar cambios al Stage
-- Hacer commits
-- Eliminando archivos
-- Descartar cambios
-- Ignorar archivos en git
-- Ver historial de git
-- Ramas o branches
-- Crear y subir a repositorio remoto en GitHub
+![Rutas de aprendizaje para Git y Github](https://user-images.githubusercontent.com/71718050/193375503-89509660-e5bc-4ac5-aebe-4f952a8560cf.png)
+
 
 ## Que es Git y como funciona
 
@@ -34,3 +23,10 @@ Cursos gratis de Git y GitHub
 | Aprende Git Ahora! | Hola mundo | https://www.youtube.com/watch?v=VdGzPZ31ts8 | En tan solo una hora podrás introducirte en los conceptos mas importantes de esta herramienta. |
 | Curso de Git Gratis | Codigo facilito | https://codigofacilito.com/cursos/git | En este caso la gente de codigo facilito nos brinda este curso gratis en su plataforma. |
 | Curso Git & GitHub | jonmircha | https://www.youtube.com/watch?v=suzMNqDQiyU | En estas 5 horas podrás profundizar completamente en los conceptos de Git y manejo de repositorios remotos. |
+| Curso de Git y Github para Principiantes (2022) | Lucas Moy | https://www.youtube.com/watch?v=CK5ZcKZsMRs | Un curso corto pero introductorio a esta tecnología. |
+
+## Otros recursos para aprender Git
+
+Este recurso es una gran opción para aprender de forma visual como funciona Git.
+
+[Learn Git Branching](https://learngitbranching.js.org/?locale=es_ES)
