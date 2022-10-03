@@ -26,7 +26,10 @@ Siempre digo que es importante aprender el trans fondo de como funcionan las cos
 | Curso de Git y Github para Principiantes (2022) | Lucas Moy | https://www.youtube.com/watch?v=CK5ZcKZsMRs | Un curso corto pero introductorio a esta tecnología. |
 
 
+### Aprende Git avanzado
+Los anteriores curso son muy buenos, pero hay conceptos muchos mas profundos sobre Git, en este video aprenderás conceptos avanzados y utiles en un flujo de trabajo Git.
 
+[![Alt text](https://img.youtube.com/vi/HyCaL6ld8pI/0.jpg)](https://www.youtube.com/watch?v=HyCaL6ld8pI)
 
 ## Otros recursos para aprender Git
 
