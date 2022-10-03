@@ -17,13 +17,16 @@ Siempre digo que es importante aprender el trans fondo de como funcionan las cos
 
 [![Alt text](https://img.youtube.com/vi/jGehuhFhtnE/0.jpg)](https://www.youtube.com/watch?v=jGehuhFhtnE)
 
-Cursos gratis de Git y GitHub
+## Cursos gratis de Git y GitHub
 | Curso | Autor | Link | Descripción |
 | --- | --- | --- | --- |
 | Aprende Git Ahora! | Hola mundo | https://www.youtube.com/watch?v=VdGzPZ31ts8 | En tan solo una hora podrás introducirte en los conceptos mas importantes de esta herramienta. |
 | Curso de Git Gratis | Codigo facilito | https://codigofacilito.com/cursos/git | En este caso la gente de codigo facilito nos brinda este curso gratis en su plataforma. |
 | Curso Git & GitHub | jonmircha | https://www.youtube.com/watch?v=suzMNqDQiyU | En estas 5 horas podrás profundizar completamente en los conceptos de Git y manejo de repositorios remotos. |
 | Curso de Git y Github para Principiantes (2022) | Lucas Moy | https://www.youtube.com/watch?v=CK5ZcKZsMRs | Un curso corto pero introductorio a esta tecnología. |
+
+
+
 
 ## Otros recursos para aprender Git
 
